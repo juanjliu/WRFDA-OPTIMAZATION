@@ -28,7 +28,7 @@ Step 3: Unzip and untar the WRFDA-OPTIMAZATION file
  
  ```
   cd WRFPLUSV3   (from Step 1)
-  tar -xvf  WRFDA-OPTIMAZATION.tar.gz
+  Updating optimation codes in the five files of the underlying version 
  ``` 
 Step 4: Installing WRFPLUS for 4D-Var Run
 
